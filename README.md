@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ogiki477
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on  commercial project work
 - 📫 How to reach me via my email--omojick88moses@gmail.com
 
