@@ -13,7 +13,7 @@ I'm constantly learning and evolving in my craft, with a focus on full-stack dev
 I'm actively looking to collaborate on commercial projects, particularly those involving web and app development.
 
 ## 📫 How to Reach Me
-You can reach out to me via email at [ogiki88moses@gmail.com](ogiki88moses@gmail.com).
+You can reach out to me via email at [ogiki88moses@gmail.com](mailto:ogiki88moses@gmail.com).
 
 ## GitHub Stats
 Check out my repositories to see what I'm working on!
