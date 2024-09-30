@@ -2,6 +2,7 @@
 
 ## About Me
 I am a software engineer with a passion for coding and development. My main areas of interest are:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ogiki477&theme=dark)](https://git.io/streak-stats)
 
 - **Web Development** using Laravel
 - **App Development** using Flutter
