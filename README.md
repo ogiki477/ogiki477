@@ -17,9 +17,11 @@ I'm actively looking to collaborate on commercial projects, particularly those i
 You can reach out to me via email at [ogiki88moses@gmail.com](mailto:ogiki88moses@gmail.com).
 
 ## GitHub Stats
+ <!-- 
  [![trophy](https://github-profile-trophy.vercel.app/?username=ogiki477&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  <!--<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogiki477" /> -->
+  <!--<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogiki477" /> 
   <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ogiki477&show_icons=true&theme=radical" />
+  -->
  
   [![GitHub Streak](https://streak-stats.demolab.com/?user=ogiki477&theme=dark)](https://git.io/streak-stats)
 
