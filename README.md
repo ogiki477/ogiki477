@@ -4,8 +4,8 @@
 I am a software engineer with a passion for coding and development. My main areas of interest are:
  
 
-- **Web Development** using Laravel
-- **App Development** using Flutter
+- **Web Development** using Laravel,reactjs,nextjs
+
 
 ## 🌱 Currently Exploring
 I'm constantly learning and evolving in my craft, with a focus on full-stack development.
